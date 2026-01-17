@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo-square.png" alt="GreenRoots Collective Logo" width="200"/>
+  <img src="assets/logo-banner.png" alt="GreenRoots Collective Logo" height="200"/>
   
   # GreenRoots Collective
   
