@@ -1,66 +1,56 @@
 <div align="center">
-  <img src="assets/logo-banner.png" alt="GreenRoots Collective Logo" height="200"/>
-  
-  # GreenRoots Collective
-  
-  **Where seeds grow into tomorrow's change**
-  
-  🌱 Making our school greener, more sustainable, and more inspiring
-  
-  [![Website](https://img.shields.io/badge/Website-Visit-green)](https://greenroots.tech)
-  [![Join Us](https://img.shields.io/badge/Get%20Involved-Join-brightgreen)](mailto:greenrootscollectiveorg@gmail.com)
+  <img src="assets/logo-banner.png" alt="Greenroots Collective Logo" height="200"/>
+
+  # Greenroots Collective
+
+  **Planting seeds, growing real change**
+
+  🌱 Student‑led garden, club, and activities for real sustainability
+
+  [![Website](https://img.shields.io/badge/Overview%20Site-Visit-green)](https://bit.ly/greenrootscollectivewebsite)
+  [![Proposal](https://img.shields.io/badge/Project%20Dossier-Read-brightgreen)](https://bit.ly/greenrootscollectiveproposal)
 </div>
 
 ## 🌍 About Us
 
-Welcome to GreenRoots Collective, where our mission is to make our school greener, more sustainable, and more inspiring for students. Here you can explore the challenges our world and school are facing, the solutions we are building, and our first big project: a vibrant school garden and club that creates real change through action.
-
-Founded in **October 2024** by Mazen Choumari, GreenRoots Collective is committed to transforming school spaces into lively gardens where students can plant, explore nature, and learn about sustainability through fun, hands-on activities.
+Greenroots Collective is a student‑led organisation founded in **October 2024** by **Mazen Choumari** to turn sustainability from empty speeches into serious, visible action in our school.  
+We run a structured garden, a weekly club, and hands‑on activities so students can learn through doing, not just listening.
 
 ## 🎯 Our Mission
 
-Create green spaces where students can learn about sustainability through engaging, hands-on activities that teach responsibility, creativity, teamwork, and real-life skills.
+Create and maintain real green spaces and meaningful activities where students of different ages learn about respect for nature, responsibility, and community through organised sessions in the garden and beyond.
 
 ## 🌟 Our Vision
 
-A school where green spaces inspire curiosity, creativity, awareness, and long-term care for the community and planet.
+Build a long‑term, student‑run garden and club system that becomes part of the school’s identity and can be replicated in other schools, starting with the **Globeducate** network and then expanding even further.
 
-## 💡 Core Values
+## 💡 How We Work
 
-We focus on three fundamental pillars:
+- A **management team** that shapes the vision, designs programmes, and coordinates with school leadership.  
+- An **operations team** that prepares materials, runs weekly club sessions, and cares for the garden.  
+- **Members and participants** from across the school who join activities, help in the garden, and grow into future leaders.
 
-- **Innovation** - Exploring creative solutions for sustainability challenges
-- **Education** - Making learning interactive, enjoyable, and meaningful
-- **Collaboration** - Working together to build a greener future
+Through the Greenroots Club and our activities, whole classes visit the garden, take part in projects, and see how a forgotten corner can become a living classroom.
 
-## 🌿 What We Do
+## 🚀 For Other Schools
 
-Every activity we propose is designed to provide students with:
+The Greenroots model is being documented so other schools can:
 
-- Hands-on gardening and environmental experiences
-- Understanding of sustainability principles
-- Development of responsibility and teamwork skills
-- Connection with nature and their community
-- Opportunities to make real, measurable impact
-
-## 🚀 Get Involved
-
-Whether you're a student looking to make a difference or a visitor curious about what we're growing, there are many ways to participate:
-
-- Join our school garden club
-- Attend our upcoming activities and workshops
-- Share your ideas for sustainability projects
-- Help us spread the word about environmental action
+- Understand the philosophy, club structure, and activity flow  
+- Recreate the garden + club system with clear roles, timetables, and templates  
+- Adapt the idea to their own campus while keeping the core principles of respect, responsibility, and student leadership
 
 ## 📫 Contact
 
-Interested in learning more or getting involved? Reach out to us!
+**Owner & Executive Director – Mazen Choumari**  
+- Personal email: [mazenalchoumari@gmail.com](mailto:mazenalchoumari@gmail.com)  
+- Organisation email: [greenrootscollectiveorg@gmail.com](mailto:greenrootscollectiveorg@gmail.com)  
 
-- **Email**: contact@greenroots.tech
-- **Website**: [greenroots.tech](https://greenroots.tech)
+- Overview website: https://bit.ly/greenrootscollectivewebsite  
+- Project proposal & dossier: https://bit.ly/greenrootscollectiveproposal  
 
 ---
 
 <div align="center">
-  <sub>Planting the seeds of a brighter tomorrow 🌱</sub>
+  <sub>Planting seeds today, so the next generation inherits something real 🌱</sub>
 </div>
