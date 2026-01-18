@@ -23,12 +23,12 @@ Our mission is to create green spaces and structured activities where students l
 
 Greenroots Collective directly supports the **United Nations Sustainable Development Goals (SDGs)**:
 
-- **SDG 13 – Climate Action:** Increasing green spaces on campus helps improve air quality, regulate temperatures, and build climate awareness among students.  
-- **SDG 4 – Quality Education:** Through our club and garden sessions, students get interactive learning that connects sustainability, agriculture, and environmental responsibility with real life.
+- **SDG 13 - Climate Action:** Increasing green spaces on campus helps improve air quality, regulate temperatures, and build climate awareness among students.  
+- **SDG 4 - Quality Education:** Through our club and garden sessions, students get interactive learning that connects sustainability, agriculture, and environmental responsibility with real life.
 
 ## 🌟 Vision
 
-Establish Greenroots Collective as a trusted and transformative student club running across the whole school, engaging students and staff in meaningful environmental action. Beyond our own campus, the aim is to inspire and support other schools—starting with **Globeducate** and then beyond—to launch their own versions of this model.
+Establish Greenroots Collective as a trusted and transformative student club running across the whole school, engaging students and staff in meaningful environmental action. Beyond our own campus, the aim is to inspire and support other schools, starting with **Globeducate** and then beyond, to launch their own versions of this model.
 
 ## 💡 How We Work
 
@@ -48,7 +48,7 @@ The Greenroots model is being documented so other schools can:
 
 ## 📫 Contact
 
-**Owner & Executive Director – Mazen Choumari**  
+**Owner & Executive Director - Mazen Choumari**  
 
 - GitHub contact email: **contact@greenroots.tech**  
 - GitHub blog / main site: [**https://greenroots.tech**](https://greenroots.tech)  
@@ -62,5 +62,5 @@ The Greenroots model is being documented so other schools can:
 ---
 
 <div align="center">
-  <sub>Planting seeds today, so the next generation inherits something real 🌱</sub>
+  <sub>Planting seeds, growing change</sub>
 </div>
